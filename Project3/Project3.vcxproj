@@ -141,7 +141,6 @@
     <ClInclude Include="WarpPrespective.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Rivki.cpp" />
     <ClCompile Include="WarpPrespective.cpp" />
     <ClCompile Include="Test.cpp" />
     <ClCompile Include="Vec3b.cpp" />

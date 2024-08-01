@@ -41,8 +41,5 @@
     <ClCompile Include="Vec3b.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Rivki.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
