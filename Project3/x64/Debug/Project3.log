@@ -1,0 +1,72 @@
+﻿  Rivki.cpp
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(32,67): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(32,58): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(33,67): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(33,59): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(34,70): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(34,61): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(35,70): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(35,62): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(40,53): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned char
+          ]
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(41,59): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned char
+          ]
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(42,57): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned char
+          ]
+C:\pnini\Practicum\openCV\build\include\opencv2\core\mat.inl.hpp(921,5): error C2039: 'channels': is not a member of 'cv::DataType<Pixel>'
+C:\pnini\Practicum\openCV\build\include\opencv2\core\mat.inl.hpp(921,5): message : see declaration of 'cv::DataType<Pixel>'
+C:\pnini\Practicum\Project3\Project3\Rivki.cpp(32,41): message : see reference to function template instantiation '_Tp &cv::Mat::at<Pixel>(cv::Point)' being compiled
+          with
+          [
+              _Tp=Pixel
+          ]
+C:\pnini\Practicum\openCV\build\include\opencv2\core\mat.inl.hpp(917): error C3867: 'cv::Mat::channels': non-standard syntax; use '&' to create a pointer to member
+C:\pnini\Practicum\openCV\build\include\opencv2\core\mat.inl.hpp(921,5): error C2297: '*': not valid as right operand has type 'int (__cdecl cv::Mat::* )(void) const'
+C:\pnini\Practicum\openCV\build\include\opencv2\core\traits.hpp(382,31): error C2039: 'depth': is not a member of 'cv::DataType<Pixel>'
+C:\pnini\Practicum\openCV\build\include\opencv2\core\mat.inl.hpp(921,5): message : see declaration of 'cv::DataType<Pixel>'
+C:\pnini\Practicum\openCV\build\include\opencv2\core\mat.inl.hpp(917): message : see reference to class template instantiation 'cv::traits::Depth<Pixel>' being compiled
+C:\pnini\Practicum\openCV\build\include\opencv2\core\traits.hpp(382): error C2065: 'depth': undeclared identifier
+  WarpPrespective.cpp
+  Test.cpp
+  Generating Code...
